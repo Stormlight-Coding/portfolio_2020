@@ -1,12 +1,10 @@
 asn1crypto==0.24.0
 beautifulsoup4==4.7.1
 certifi==2023.7.22
-cffi==1.12.2
 chardet==3.0.4
 cryptography==41.0.6
 Django==2.2.28
 idna==2.8
-maxminddb==1.4.1
 pycparser==2.19
 pyOpenSSL==19.0.0
 requests==2.31.0
